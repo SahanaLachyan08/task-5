@@ -2,7 +2,11 @@
 
 This is a clean, modern, and responsive single-page homepage for a fictional creative agency called "Creative Edge." It features a two-column layout, modern CSS styling, and a mobile-first responsive design.
 
+## Live Demo
 
+You can view a live demo of the project here:
+
+**[https://sahanalachyan08.github.io/task-5/](https://sahanalachyan08.github.io/task-5/)**
 
 ## Features
 
@@ -17,11 +21,11 @@ This is a clean, modern, and responsive single-page homepage for a fictional cre
 
 * **HTML5:** Structured using semantic elements like `<header>`, `<main>`, `<aside>`, `<section>`, and `<footer>`.
 * **CSS3:** Styled with modern CSS, including Flexbox, CSS Variables, and Media Queries.
-* **Google Fonts:** Imports the "Poppins" font for typography.
+* "Poppins" font for typography.
 
 ## Setup and Usage
 
-To view or use this project, simply download the files and open the `index.html` file in any modern web browser.
+To view or use this project locally, simply download the files and open the `index.html` file in any modern web browser.
 
 1.  **Clone the repository (or download the files):**
     ```sh
